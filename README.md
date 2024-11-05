@@ -1,6 +1,6 @@
-# UsuariosApp
+# ProdutosApp
 
-O UsuariosApp é um sistema de controle de usuários desenvolvido em ASP.NET API com o uso do Entity Framework e AutoMapper.
+O ProdutosApp é um sistema de cadastro de produtos e fornecedores desenvolvido em ASP.NET API com o uso do Entity Framework.
 
 ## Pré-requisitos
 
@@ -17,6 +17,5 @@ Após configurar o banco de dados local e atualizar a string de conexão no arqu
 
 - Documentação do ASP.NET API: [ASP.NET API Documentation](https://docs.microsoft.com/pt-br/aspnet/core/web-api/?view=aspnetcore-8.0)
 - Documentação do Entity Framework Core: [Entity Framework Core Documentation](https://docs.microsoft.com/pt-br/ef/core/)
-- Documentação do AutoMapper: [AutoMapper Documentation](https://docs.automapper.org/en/latest/)
 
 
